@@ -5,14 +5,14 @@ DrishtiMate is an assistive mobile application designed to empower blind and vis
 
 ### Folder structure
 drishtimate/
-├── backend/           # Python OpenCV + Speech Recognition backend
-│   ├── main.py
-│   ├── requirements.txt
-│   └── ...
-└── frontend/          # Flutter app
-    ├── lib/
-    ├── assets/
-    └── pubspec.yaml
+- ├── backend/           # Python OpenCV + Speech Recognition backend
+- │   ├── main.py
+- │   ├── requirements.txt
+- │   └── ...
+- └── frontend/          # Flutter app
+-    ├── lib/
+-    ├── assets/
+-    └── pubspec.yaml
 
 ### backend:
 - python -m venv env
