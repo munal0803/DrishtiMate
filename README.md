@@ -15,16 +15,16 @@ drishtimate/
 -    └── pubspec.yaml
 
 ### backend:
-1. python -m venv env
-2. **windows** : env\Scripts\activate
-3. **Mac/Linux** : source env/bin/activate
-4. pip install -r requirements.txt
-5. python main.py
+> 1. python -m venv env
+> 2. **windows** : env\Scripts\activate
+> 3. **Mac/Linux** : source env/bin/activate
+> 4. pip install -r requirements.txt
+> 5. python main.py
 
 ### Frontend:
-1. cd frontend
-2. flutter pub get
-3. flutter run
+> 1. cd frontend
+> 2. flutter pub get
+> 3. flutter run
 
 ## Inspiration:
 Drishtimate was created to empower visually impaired individuals, helping them navigate the world with more independence. We aimed to bridge the accessibility gap by offering a tool that not only assists with daily navigation but also ensures users’ safety, creating a more inclusive environment for the blind community to thrive in.
