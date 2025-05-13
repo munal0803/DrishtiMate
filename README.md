@@ -15,11 +15,11 @@ drishtimate/
 -    └── pubspec.yaml
 
 ### backend:
-> 1. python -m venv env
-> 2. **windows** : env\Scripts\activate
-> 3. **Mac/Linux** : source env/bin/activate
-> 4. pip install -r requirements.txt
-> 5. python main.py
+> python -m venv env
+> **windows** : env\Scripts\activate
+> **Mac/Linux** : source env/bin/activate
+> pip install -r requirements.txt
+> python main.py
 
 ### Frontend:
 > 1. cd frontend
