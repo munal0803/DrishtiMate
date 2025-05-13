@@ -1,7 +1,7 @@
 # DrishtiMate
 DrishtiMate is an assistive mobile application designed to empower blind and visually impaired individuals by enabling them to recognize and locate everyday objects using their smartphone camera
 
-**Inspiration:**
+## Inspiration:
 Drishtimate was created to empower visually impaired individuals, helping them navigate the world with more independence. We aimed to bridge the accessibility gap by offering a tool that not only assists with daily navigation but also ensures users’ safety, creating a more inclusive environment for the blind community to thrive in.
 
 --What it does:
