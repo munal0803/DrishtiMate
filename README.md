@@ -1,6 +1,31 @@
 # DrishtiMate
 DrishtiMate is an assistive mobile application designed to empower blind and visually impaired individuals by enabling them to recognize and locate everyday objects using their smartphone camera
 
+## Application set up
+
+### Folder structure
+drishtimate/
+├── backend/           # Python OpenCV + Speech Recognition backend
+│   ├── main.py
+│   ├── requirements.txt
+│   └── ...
+└── frontend/          # Flutter app
+    ├── lib/
+    ├── assets/
+    └── pubspec.yaml
+
+### backend:
+- python -m venv env
+- **windows** : env\Scripts\activate
+- **Mac/Linux** : source env/bin/activate
+- pip install -r requirements.txt
+- python main.py
+
+### Frontend:
+- cd frontend
+- flutter pub get
+- flutter run
+
 ## Inspiration:
 Drishtimate was created to empower visually impaired individuals, helping them navigate the world with more independence. We aimed to bridge the accessibility gap by offering a tool that not only assists with daily navigation but also ensures users’ safety, creating a more inclusive environment for the blind community to thrive in.
 
